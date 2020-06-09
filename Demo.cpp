@@ -9,7 +9,7 @@
 #include <iostream>
 #include <stdexcept>
 using namespace std;
-
+/*
 int main() {
 	string text = "Dond vorrI/home/yonatan/CLionProjects/solver-a be haffy";
 	cout << phonetic::find(text, "dont") << endl;   // should print "Dond"
@@ -22,3 +22,4 @@ int main() {
 	 	cout << "   caught exception: " << ex.what() << endl;  // should print "Did not find the word 'happ' in the text"
 	}
 }
+*/
